@@ -2,7 +2,7 @@
 
 Most of the prsentation is from a user point of view where no APL insight is required.
 
-Presentation of my Polyomino App on DYALOG APL seminar, in Elsinore Denmark, september 2017.
+Presentation of the Polyomino App took place on a DYALOG APL seminar, in Elsinore Denmark, september 2017.
 
 # Synopsis
 
