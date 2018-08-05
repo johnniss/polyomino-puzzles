@@ -1,3 +1,5 @@
-Link to my presentation on YouTube 
+Link to my polyomino app presentation on YouTube 
 
-[DYALOG seminar september 2017](https://youtu.be/_dfpoOIazhE)
+Most of the prsentation is from a user point of view where no APL insight is required.
+
+[DYALOG APL seminar september 2017](https://youtu.be/_dfpoOIazhE)
