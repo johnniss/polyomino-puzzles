@@ -1,10 +1,10 @@
-# Link to a presentation of the polyomino app on YouTube 
+#2 Link to a presentation of the polyomino app on YouTube 
 
-Most of the prsentation is from a user point of view where no APL insight is required.
+Most of the presentation of the app is from a user point of view where no APL insight is required.
 
 Presentation of the Polyomino App took place on a DYALOG APL seminar, in Elsinore Denmark, september 2017.
 
-# Synopsis
+#2 Synopsis
 
 In 2 dimensions, a polyomino is a plane geometric figure formed by joining one or more congruent squares edge to edge; 
 
